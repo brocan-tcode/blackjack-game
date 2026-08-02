@@ -10,7 +10,11 @@ in a clean MVVM structure that separates the game rules from the table UI.
 
 | Place your bet | Player turn | Split hands | Round settled |
 |:---:|:---:|:---:|:---:|
-| <img src="Screenshots/01-betting.png" width="200"> | <img src="Screenshots/02-player-turn.png" width="200"> | <img src="Screenshots/03-split.png" width="200"> | <img src="Screenshots/04-round-over.png" width="200"> |
+| <<img width="414" height="900" alt="01-betting" src="https://github.com/user-attachments/assets/71900609-2081-47d6-9c8f-35ed5cd491c1" />
+> | <<img width="414" height="900" alt="02-player-turn" src="https://github.com/user-attachments/assets/51c25163-bbed-4f5a-8a80-bee0a20dfebd" />
+> | <<img width="414" height="900" alt="03-split" src="https://github.com/user-attachments/assets/a8c72f8d-fc1d-412f-a370-d92ce63c47d8" />
+> | <<img width="414" height="900" alt="04-round-over" src="https://github.com/user-attachments/assets/2a68e9d1-595e-49e5-b63b-ad3fff7e01a7" />
+> |
 
 ---
 
